@@ -1,0 +1,27 @@
+.navbar-header {
+    background-color:#804b18;
+    height: 65px;
+    padding: 20px;
+    color: white;
+    /* text-align: right; */
+}
+
+.App-title {
+font-size: 1.5em;
+}  
+
+a:link{
+    color:white
+}
+
+a:visited{
+    color:white
+}
+
+a:hover{
+    color:white
+}
+
+a:active{
+    color:white
+}

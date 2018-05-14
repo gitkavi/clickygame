@@ -1,0 +1,16 @@
+.footer{
+    background-color:#804b18;
+    /* position: fixed;
+    left: 0;
+    bottom: 0; */
+    width: 100%;
+    height:50px;
+    color:white;
+    text-align: center;
+    padding-top:13px;
+}
+
+.logo{
+    height:20px;
+    width:20px;
+}

@@ -1,0 +1,19 @@
+.jumbo{
+    background-image: url("../../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:540px;
+  }
+  .jumbo-text{
+    text-align: center;
+    padding-top:13%;
+    font-size:70px;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+  }
+  .jumbo-subtext{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:#7b4617;
+  }

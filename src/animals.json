@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name":"Bear",
+    "image": "bear1.png",
+    "hit":false
+  },
+  {
+    "id": 1,
+    "name":"Dog",    
+    "image": "dog.jpg",
+    "hit":false
+  },
+  {
+    "id": 2,
+    "name":"Bunny",
+    "image": "bunny.png",
+    "hit":false
+  },
+  {
+    "id": 3,
+    "name":"Elephant",
+    "image": "elephant.png",
+    "hit":false
+  },
+  {
+    "id": 4,
+    "name":"Giraffe",
+    "image": "giraffe.png",
+    "hit":false
+  },
+  {
+    "id": 5,
+    "name": "Monkey",
+    "image": "monkey.jpg",
+    "hit":false
+  },
+  {
+    "id": 6,
+    "name":"Panda",
+    "image": "panda.png",
+    "hit":false
+  },
+  {
+    "id": 7,
+    "name":"Simba",
+    "image": "simba.png",
+    "hit":false
+  },
+  {
+    "id": 8,
+    "name":"Squirel",
+    "image": "squirrel.jpg",
+    "hit":false
+  },
+  {
+    "id": 9,
+    "name":"Tiger",
+    "image": "tiger.jpg",
+    "hit":false
+  },
+  {
+    "id": 10,
+    "name":"Turtle",
+    "image": "turtle.jpg",
+    "hit":false
+  },
+  {
+    "id": 11,
+    "name":"Zebra",
+    "image": "zebra.jpg",
+    "hit":false
+  }
+]
